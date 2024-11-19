@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hell Java Fans");
         System.out.println("New code added");
+        System.out.println("New code added2");
     }
 
     public static void greeting() {
